@@ -1,1 +1,1 @@
-Membuat Blog Kota Yogyakarta untuk tugas kuliah 
+Membuat Blog Kota Solo/Surakarta untuk tugas kuliah web programming njir lah
