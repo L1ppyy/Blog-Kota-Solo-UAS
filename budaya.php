@@ -22,7 +22,8 @@ include 'header.php';
                 <p><strong>Lokasi Pertunjukan:</strong> Pendapa Keraton, ISI Solo, Taman Budaya Jawa Tengah</p>
                 <p><strong>Jadwal:</strong> Biasanya malam hari, terutama pada acara khusus</p>
                 <div style="display: flex; gap: 15px; margin-top: 10px;">
-                <a href="#" class="btn" target="_blank" style="margin-top: 10px;">Lokasi</a>
+                <a href="https://maps.app.goo.gl/gga7Quj6TnjvJmhM7" class="btn" target="_blank" style="margin-top: 10px;">Lokasi</a>
+                <a href="https://maps.app.goo.gl/ZgaGAHmFMWVBhyWS6" class="btn" target="_blank" style="margin-top: 10px;">Lokasi</a>
                 </div>
             </div>
         </div>
@@ -35,7 +36,7 @@ include 'header.php';
                 <p><strong>Lokasi Pertunjukan:</strong> Keraton Surakarta</p>
                 <p><strong>Jadwal:</strong> Acara khusus keraton seperti Tingalan Dalem</p>
                 <div style="display: flex; gap: 15px; margin-top: 10px;">
-                <a href="#" class="btn" target="_blank" style="margin-top: 10px;">Lokasi</a>
+                <a href="https://maps.app.goo.gl/gga7Quj6TnjvJmhM7" class="btn" target="_blank" style="margin-top: 10px;">Lokasi</a>
                 </div>
             </div>
         </div>
@@ -45,10 +46,11 @@ include 'header.php';
             <div class="card-content">
                 <h3 class="card-title">Gamelan</h3>
                 <p class="card-text">Musik tradisional Jawa dengan perangkat instrumen dari logam. Solo memiliki gaya khas dalam permainan gamelan, terutama laras slendro.</p>
-                <p><strong>Lokasi:</strong> Keraton, ISI Solo, sanggar-sanggar seni</p>
+                <p><strong>Lokasi:</strong> ISI Solo, sanggar-sanggar seni</p>
                 <p><strong>Workshop:</strong> Beberapa sanggar menawarkan kelas belajar gamelan</p>
                 <div style="display: flex; gap: 15px; margin-top: 10px;">
-                <a href="#" class="btn" target="_blank" style="margin-top: 10px;">Lokasi</a>
+                <a href="https://maps.google.com/?q=Institut+Seni+Indonesia+Surakarta" class="btn" target="_blank" style="margin-top: 10px;">Lokasi</a>
+                <a href="https://maps.app.goo.gl/S6eU2BckfdVE4qsW9" class="btn" target="_blank" style="margin-top: 10px;">Lokasi</a>
                 </div>
             </div>
         </div>
