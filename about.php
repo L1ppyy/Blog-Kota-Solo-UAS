@@ -30,21 +30,21 @@ include 'header.php';
         <div class="card fade-in">
             <div class="card-content">
                 <h3 class="card-title">Kota Budaya</h3>
-                <p>Solo dijuluki sebagai "The Spirit of Java" karena menjadi pusat pelestarian budaya Jawa tradisional seperti wayang, gamelan, dan tari.</p>
+                <p>Kota Solo dijuluki "The Spirit of Java" karena perannya sebagai pusat pelestarian budaya Jawa yang masih lestari hingga kini. Berbagai seni tradisional seperti wayang kulit, gamelan, keroncong, dan tari-tarian terus hidup di tengah masyarakat. Tradisi keraton dan berbagai event budaya rutin digelar, menjadikan Solo sebagai salah satu kota budaya paling aktif di Indonesia.</p>
             </div>
         </div>
         
         <div class="card fade-in delay-1">
             <div class="card-content">
                 <h3 class="card-title">Kota Pendidikan</h3>
-                <p>Solo memiliki banyak perguruan tinggi ternama seperti UNS, ISI, dan UMS, menjadikannya kota pelajar di Jawa Tengah.</p>
+                <p>Solo dikenal sebagai kota pelajar di Jawa Tengah karena memiliki banyak perguruan tinggi ternama, seperti Universitas Sebelas Maret (UNS), Institut Seni Indonesia (ISI), dan Universitas Muhammadiyah Surakarta (UMS). Selain itu, banyak lembaga pendidikan seni, budaya, dan teknologi yang tumbuh di Solo, menjadikannya kota yang ramah untuk pengembangan ilmu pengetahuan dan kreativitas.</p>
             </div>
         </div>
         
         <div class="card fade-in delay-2">
             <div class="card-content">
                 <h3 class="card-title">Kota Batik</h3>
-                <p>Batik Solo terkenal dengan motif tradisional seperti Sidomukti dan Sidoluhur, serta teknik pembuatan yang masih tradisional.</p>
+                <p>Solo adalah salah satu sentra batik terbesar di Indonesia. Batik Solo terkenal dengan motif-motif klasik seperti Sidomukti, Sidoasih, dan Sidoluhur, yang sarat filosofi kehidupan masyarakat Jawa. Selain itu, teknik pembuatan batik Solo masih banyak yang menggunakan cara tradisional batik tulis dan batik cap, yang bisa ditemukan di sentra batik Laweyan dan Kauman.</p>
             </div>
         </div>
     </div>
