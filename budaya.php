@@ -21,6 +21,9 @@ include 'header.php';
                 <p class="card-text">Seni pertunjukan wayang kulit gaya Surakarta memiliki ciri khas pada bentuk wayang dan cempala (alat pengetuk) yang digunakan dalang.</p>
                 <p><strong>Lokasi Pertunjukan:</strong> Pendapa Keraton, ISI Solo, Taman Budaya Jawa Tengah</p>
                 <p><strong>Jadwal:</strong> Biasanya malam hari, terutama pada acara khusus</p>
+                <div style="display: flex; gap: 15px; margin-top: 10px;">
+                <a href="#" class="btn" target="_blank" style="margin-top: 10px;">Lokasi</a>
+                </div>
             </div>
         </div>
         
@@ -31,6 +34,9 @@ include 'header.php';
                 <p class="card-text">Tari sakral keraton yang dibawakan oleh 9 penari perempuan. Tarian ini penuh makna filosofis dan hanya dipentaskan pada acara tertentu.</p>
                 <p><strong>Lokasi Pertunjukan:</strong> Keraton Surakarta</p>
                 <p><strong>Jadwal:</strong> Acara khusus keraton seperti Tingalan Dalem</p>
+                <div style="display: flex; gap: 15px; margin-top: 10px;">
+                <a href="#" class="btn" target="_blank" style="margin-top: 10px;">Lokasi</a>
+                </div>
             </div>
         </div>
         
@@ -41,6 +47,9 @@ include 'header.php';
                 <p class="card-text">Musik tradisional Jawa dengan perangkat instrumen dari logam. Solo memiliki gaya khas dalam permainan gamelan, terutama laras slendro.</p>
                 <p><strong>Lokasi:</strong> Keraton, ISI Solo, sanggar-sanggar seni</p>
                 <p><strong>Workshop:</strong> Beberapa sanggar menawarkan kelas belajar gamelan</p>
+                <div style="display: flex; gap: 15px; margin-top: 10px;">
+                <a href="#" class="btn" target="_blank" style="margin-top: 10px;">Lokasi</a>
+                </div>
             </div>
         </div>
     </div>
